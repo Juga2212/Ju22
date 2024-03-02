@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'Juggg'
+
+instance = Juggg::Response.new
+instance.call
